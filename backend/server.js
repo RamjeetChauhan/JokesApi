@@ -1,7 +1,7 @@
 import express from 'express';
 const app = express();
 const port =process.env.PORT || 4000;
-
+ app.use((l));
 // app.get('/',(req, res)=>{
 //     res.send('server is ready')
 // })
